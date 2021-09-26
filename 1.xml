@@ -1,2 +1,3 @@
 java -version
 mvn -version
+echo hi this is dharma
